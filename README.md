@@ -1,6 +1,6 @@
 # Flame Pack By Aislx
 🔥Welcome to my Pack
-# CLICK ON THE RELEASES TO DOWNLOAD LEATEST VERSION
+# CLICK ON THE RELEASES TO DOWNLOAD LEATEST VERSION[https://github.com/aislxflames/Flame-Pack/releases]
 🐛Latest Bug Fixes & Patches
 
 - Fire Blacking Fixed
