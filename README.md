@@ -22,7 +22,7 @@
 
 - Blade of FlamEs [Rename the netherite and diamond sword to 'Blade of FlamEs' to see powerfull sword!]
 - FlamEs Axe [Rename the netherite axe to 'FlamEs Axe' to see dangerous axe!]
+
+
 ![pack](https://github.com/aislxflames/Flame-Pack/assets/120901302/162ed3c0-9e7c-4bed-b4e4-f98d33c082cd)
-
-
 **Full Changelog**: https://github.com/aislxflames/Flame-Pack/compare/1.0...v3.0
